@@ -1,0 +1,38 @@
+C:\Users\Ramirez\source\repos\Linea\obj\Debug\Linea.csprojAssemblyReference.cache
+C:\Users\Ramirez\source\repos\Linea\obj\Debug\Linea.Form1.resources
+C:\Users\Ramirez\source\repos\Linea\obj\Debug\Linea.Properties.Resources.resources
+C:\Users\Ramirez\source\repos\Linea\obj\Debug\Linea.csproj.GenerateResource.cache
+C:\Users\Ramirez\source\repos\Linea\bin\Debug\Linea.exe.config
+C:\Users\Ramirez\source\repos\Linea\bin\Debug\Linea.exe
+C:\Users\Ramirez\source\repos\Linea\bin\Debug\Linea.pdb
+C:\Users\Ramirez\source\repos\Linea\obj\Debug\Linea.exe
+C:\Users\Ramirez\source\repos\Linea\obj\Debug\Linea.pdb
+C:\Users\Ramirez\Desktop\Linea\bin\Debug\Linea.exe.config
+C:\Users\Ramirez\Desktop\Linea\bin\Debug\Linea.exe
+C:\Users\Ramirez\Desktop\Linea\bin\Debug\Linea.pdb
+C:\Users\Ramirez\Desktop\Linea\obj\Debug\Linea.csprojAssemblyReference.cache
+C:\Users\Ramirez\Desktop\Linea\obj\Debug\Linea.Form1.resources
+C:\Users\Ramirez\Desktop\Linea\obj\Debug\Linea.Properties.Resources.resources
+C:\Users\Ramirez\Desktop\Linea\obj\Debug\Linea.csproj.GenerateResource.cache
+C:\Users\Ramirez\Desktop\Linea\obj\Debug\Linea.exe
+C:\Users\Ramirez\Desktop\Linea\obj\Debug\Linea.pdb
+C:\Users\Emma Figueroa\Downloads\Linea (1)\Linea\bin\Debug\Linea.exe.config
+C:\Users\Emma Figueroa\Downloads\Linea (1)\Linea\bin\Debug\Linea.exe
+C:\Users\Emma Figueroa\Downloads\Linea (1)\Linea\bin\Debug\Linea.pdb
+C:\Users\Emma Figueroa\Downloads\Linea (1)\Linea\obj\Debug\Linea.csprojAssemblyReference.cache
+C:\Users\Emma Figueroa\Downloads\Linea (1)\Linea\obj\Debug\Linea.Properties.Resources.resources
+C:\Users\Emma Figueroa\Downloads\Linea (1)\Linea\obj\Debug\Linea.csproj.GenerateResource.cache
+C:\Users\Emma Figueroa\Downloads\Linea (1)\Linea\obj\Debug\Linea.exe
+C:\Users\Emma Figueroa\Downloads\Linea (1)\Linea\obj\Debug\Linea.pdb
+C:\Users\Emma Figueroa\Downloads\Linea (1)\Linea\obj\Debug\Linea.Cargador.resources
+C:\Users\Emma Figueroa\Downloads\Linea (1)\Linea\obj\Debug\Linea.First.resources
+E:\Descargas\Linea (1)\Linea\bin\Debug\Linea.exe.config
+E:\Descargas\Linea (1)\Linea\bin\Debug\Linea.exe
+E:\Descargas\Linea (1)\Linea\bin\Debug\Linea.pdb
+E:\Descargas\Linea (1)\Linea\obj\Debug\Linea.csprojAssemblyReference.cache
+E:\Descargas\Linea (1)\Linea\obj\Debug\Linea.Cargador.resources
+E:\Descargas\Linea (1)\Linea\obj\Debug\Linea.First.resources
+E:\Descargas\Linea (1)\Linea\obj\Debug\Linea.Properties.Resources.resources
+E:\Descargas\Linea (1)\Linea\obj\Debug\Linea.csproj.GenerateResource.cache
+E:\Descargas\Linea (1)\Linea\obj\Debug\Linea.exe
+E:\Descargas\Linea (1)\Linea\obj\Debug\Linea.pdb
